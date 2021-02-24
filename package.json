@@ -1,0 +1,24 @@
+{
+  "name": "jsdatapack",
+  "version": "1.0.0",
+  "description": "Make minecraft datapacks in javascript.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "cd test && node index.js"
+  },
+  "keywords": [
+    "Mc",
+    "Minecraft",
+    "Plugin",
+    "Datapack",
+    "Minecraft-Datapack",
+    "Data-Pack"
+  ],
+  "author": "MiccDev_",
+  "license": "MIT",
+  "dependencies": {
+    "archiver": "^5.2.0",
+    "fs": "0.0.1-security",
+    "minecraft-folder-path": "^1.2.0"
+  }
+}

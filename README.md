@@ -1,2 +1,2 @@
 # JsDatapack
- Create Minecraft datapacks with javascript.
+ A lib to make Datapacks in minecraft
